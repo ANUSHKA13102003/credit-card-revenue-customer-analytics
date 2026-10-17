@@ -4,8 +4,6 @@
 
 An interactive Power BI analytics project focused on credit card revenue, transaction trends, and customer behaviour. The goal is to understand business performance, explore customer segments, and turn financial data into insights that support better decisions.
 
-![Customer Dashboard](screenshots/customer_dashboard.png)
-![Transaction Dashboard](screenshots/transaction_dashboard.png)
 
 ---
 

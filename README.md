@@ -150,9 +150,23 @@ This section focuses on:
 - Customer transaction behaviour.
 - Interactive filters for exploring different customer groups.
 
-### Dashboard Preview
+## 📈 Dashboard Reports
 
-*Screenshots of the completed Power BI dashboard will be added here.*
+The project includes two dashboard reports covering financial performance and customer analytics.
+
+### 1. Credit Card Transaction Analysis
+
+Explores transaction activity, revenue trends, expenditure categories, and credit card performance.
+
+[View Transaction Dashboard Report](./Credit%20Card%20Financial%20Dashboard-Transaction.pdf)
+
+### 2. Credit Card Customer Analysis
+
+Explores customer revenue, interest, income groups, demographics, and customer job categories.
+
+[View Customer Dashboard Report](./Credit%20Card%20Financial%20Dashboard-Customer.pdf)
+
+The reports are available as PDF documents. An interactive Power BI `.pbix` file is not currently included in this repository.
 
 ## 💡 Business Insights
 
